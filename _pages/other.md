@@ -1,10 +1,9 @@
 ---
 layout: archive
-<!-- title: "Other" -->
+title: "Other"
 permalink: /other/
 author_profile: true
 ---
-
 # Talks
 
 **Nov. 2018:** New Methods in Computational Sociolinguistics, Leiden, Netherlands.
