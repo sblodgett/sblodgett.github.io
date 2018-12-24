@@ -13,9 +13,9 @@ author_profile: true
 
 ## 2018
 
-*Twitter Universal Dependency Parsing for African-American and Mainstream American English.* **Su Lin Blodgett**, Johnny Tian-Zheng Wei, and Brendan O'Connor. Annual Meeting of the Association for Computational Linguistics (ACL). July 2018. [pdf](http://aclweb.org/anthology/P18-1131) [data](http://slanglab.cs.umass.edu/TwitterAAE/)
+*Twitter Universal Dependency Parsing for African-American and Mainstream American English.* **Su Lin Blodgett**, Johnny Tian-Zheng Wei, and Brendan O'Connor. Annual Meeting of the Association for Computational Linguistics (ACL). July 2018. [[pdf](http://aclweb.org/anthology/P18-1131)] [[data](http://slanglab.cs.umass.edu/TwitterAAE/)]
 
-*Monte Carlo Syntax Marginals for Exploring and Using Dependency Parses.* Katherine Keith, **Su Lin Blodgett**, and Brendan O'Connor. Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL). June 2018. [pdf](http://www.aclweb.org/anthology/N18-1084)
+*Monte Carlo Syntax Marginals for Exploring and Using Dependency Parses.* Katherine Keith, **Su Lin Blodgett**, and Brendan O'Connor. Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL). June 2018. [pdf](http://www.aclweb.org/anthology/N18-1084)]
 
 ## 2017
 
