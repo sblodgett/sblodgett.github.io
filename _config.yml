@@ -11,9 +11,9 @@ title                    : "Su Lin Blodgett"
 title_separator          : "-"
 name                     : &name "Su Lin Blodgett"
 description              : &description "Computer science PhD candidate"
-url                      : https://blodgett.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sblodgett.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "blodgett.github.io"
+repository               : "sblodgett.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Su Lin Blodgett"
-  avatar           : "blodgett1.jpg"
+  avatar           : "profile.jpg"
   bio              : 
   location         :
   employer         :
