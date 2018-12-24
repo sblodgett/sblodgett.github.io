@@ -4,7 +4,8 @@ title: "Other"
 permalink: /other/
 author_profile: true
 ---
-# Talks
+
+## Talks
 
 **Nov. 2018:** New Methods in Computational Sociolinguistics, Leiden, Netherlands.
 
@@ -20,13 +21,13 @@ author_profile: true
 
 **Oct. 2016:** Data Science Tea, University of Massachusetts Amherst.
 
-# Teaching
+## Teaching
 
 **Fall 2018:** [Abe Handler](https://www.abehandler.com/), [Katherine Keith](https://kakeith.github.io/), and I co-designed and co-taught a freshman computer science seminar, [Ethical Issues Surrounding Artificial Intelligence Systems and Big Data](https://github.com/sblodgett/ai-ethics).
 
 **Spring 2017:** Teaching assistant for Advanced Natural Language Processing (graduate).
 
-# Miscellany
+## Miscellany
 
 Our work was described in the MIT Technology Review! [AI Programs Are Learning to Exclude Some African-American Voices](https://www.technologyreview.com/s/608619/ai-programs-are-learning-to-exclude-some-african-american-voices/), August 2017.
 
