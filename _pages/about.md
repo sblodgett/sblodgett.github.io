@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<br/><br/>
+&nbsp;
 I am a PhD candidate in computer science at UMass Amherst working in the [Statistical Social Language Analysis Lab](http://slanglab.cs.umass.edu/), advised by [Brendan O'Connor](http://brenocon.com/). I am interested in using statistical text analysis to answer social science, particularly sociolinguistic, questions. Currently, I am working on developing models to identify dialectal variation on social media.
 
 I am also interested in developing fair, robust text analysis tools for computational social science.
