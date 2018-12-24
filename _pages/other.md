@@ -33,4 +33,4 @@ Our work was described in the MIT Technology Review! [AI Programs Are Learning t
 
 At UMass, I have been involved with CS Women and Graduate Women in STEM and helped to organize a [Male Allyship Workshop](https://github.com/thelimeburner/cics-male-allyship-workshops) in fall 2017.
 
-[![In this interview for the UMass Women in Science video series, I briefly describe my work and my journey to computer science.](/files/thumbnail.jpg)](https://www.youtube.com/watch?v=wZMX8mb1ln8)
+[In this interview for the UMass Women in Science video series, I briefly describe my work and my journey to computer science.](https://www.youtube.com/watch?v=wZMX8mb1ln8)
