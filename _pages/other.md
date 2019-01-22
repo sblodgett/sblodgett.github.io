@@ -15,11 +15,7 @@ author_profile: true
 
 **Apr. 2017:** Computational Linguistics Workshop, Department of Linguistics, University of Massachusetts Amherst.
 
-**Mar. 2017:** Guest Lecture on Dialectal Variation in Social Media and Computational Social Science, Mount Holyoke College.
-
 **Nov. 2016:** CS Colloquium, Wellesley College.
-
-**Oct. 2016:** Data Science Tea, University of Massachusetts Amherst.
 
 ## Teaching
 
