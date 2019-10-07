@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/
+permalink: /files/blodgett_cv.pdf
 author_profile: true
 redirect_from:
   - /resume
