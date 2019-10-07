@@ -7,6 +7,10 @@ author_profile: true
 
 ## Talks
 
+**Oct. 2019:** Conference on New Directions in Analyzing Text as Data, Stanford University.
+
+**Apr. 2019:** Computational Social Science Institute Seminar, University of Massachusetts Amherst.
+
 **Nov. 2018:** New Methods in Computational Sociolinguistics, Leiden, Netherlands.
 
 **June 2018:** Summer Dialect Research Project, Department of Linguistics, University of Massachusetts Amherst.
