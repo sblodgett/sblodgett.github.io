@@ -29,6 +29,8 @@ author_profile: true
 
 ## Miscellany
 
+Pretty thrilled that our work was cited in Gretchen McCulloch's awesome [Because Internet](https://www.penguinrandomhouse.com/books/540664/because-internet-by-gretchen-mcculloch/)!
+
 Our work was described in the MIT Technology Review! [AI Programs Are Learning to Exclude Some African-American Voices](https://www.technologyreview.com/s/608619/ai-programs-are-learning-to-exclude-some-african-american-voices/), August 2017.
 
 At UMass, I have been involved with CS Women and Graduate Women in STEM and helped to organize a [Male Allyship Workshop](https://github.com/thelimeburner/cics-male-allyship-workshops) in fall 2017.
