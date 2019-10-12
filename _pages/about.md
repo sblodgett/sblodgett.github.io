@@ -11,7 +11,7 @@ redirect_from:
   
 I am a PhD candidate in computer science at UMass Amherst working in the [Statistical Social Language Analysis Lab](http://slanglab.cs.umass.edu/), advised by [Brendan O'Connor](http://brenocon.com/). I am interested in developing equitable and just natural language processing systems, and applying them to examine language variation and change (computational sociolinguistics). I've worked on developing models to identify dialectal variation on social media, and on using the language of measurement modeling to rigorously analyze harms arising from biased NLP systems.
 
-I am supported by the NSF Graduate Research Fellowship. Previously, I received my B.A. in mathematics from Wellesley College. I interned at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/) in New York in summer 2019.
+I am supported by the NSF Graduate Research Fellowship. Previously, I received my B.A. in mathematics from Wellesley College. I interned at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/) in New York in summer 2019, where I was very fortunate to work with Hanna Wallach, Hal Daumé III, and Solon Barocas.
 
 ## Recent news
 
