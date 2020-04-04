@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+## 2020
+
+*Language (technology) is power: The need to be explicit about NLP harms.* **Su Lin Blodgett**, Solon Barocas, Hal Daumé III, and Hanna Wallach. Annual Meeting of the Association for Computational Linguistics (ACL). July 2020.
+
 ## 2018
 
 *Twitter Universal Dependency Parsing for African-American and Mainstream American English.* **Su Lin Blodgett**, Johnny Tian-Zheng Wei, and Brendan O'Connor. Annual Meeting of the Association for Computational Linguistics (ACL). July 2018. [[pdf](http://aclweb.org/anthology/P18-1131)] [[data](http://slanglab.cs.umass.edu/TwitterAAE/)]
