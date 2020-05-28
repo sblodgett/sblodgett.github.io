@@ -13,7 +13,7 @@ author_profile: true
 
 ## 2020
 
-*Language (technology) is power: The need to be explicit about NLP harms.* **Su Lin Blodgett**, Solon Barocas, Hal Daumé III, and Hanna Wallach. Annual Meeting of the Association for Computational Linguistics (ACL). July 2020.
+*Language (Technology) is Power: A Critical Survey of "Bias" in NLP.* **Su Lin Blodgett**, Solon Barocas, Hal Daumé III, and Hanna Wallach. Annual Meeting of the Association for Computational Linguistics (ACL). July 2020. [[pdf](/files/acl2020.pdf)]
 
 ## 2018
 
