@@ -15,9 +15,11 @@ I am supported by the NSF Graduate Research Fellowship. Previously, I received m
 
 ## Recent news
 
+**Apr. 2020:** Our [paper](/files/acl2020.pdf) examining work on bias in NLP has been accepted to ACL!
+
 **Feb. 2020:** I defended my thesis proposal!
 
-**Jan. 2020:** I presented a [tutorial](https://azjacobs.com/measurement) with [Abbie Jacobs](https://azjacobs.com/) at [FAT* 2020](https://fatconference.org/2020/index.html)!
+**Jan. 2020:** I presented a [tutorial](https://azjacobs.com/measurement) with [Abbie Jacobs](https://azjacobs.com/) at [FAT* 2020](https://fatconference.org/2020/index.html).
 
 **Oct. 2019:** I attended the [Rising Stars in EECS Workshop](https://publish.illinois.edu/rising-stars/) at UIUC.
 
