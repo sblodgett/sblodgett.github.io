@@ -15,7 +15,7 @@ I am supported by the NSF Graduate Research Fellowship. Previously, I received m
 
 ## Recent news
 
-**Apr. 2020:** Our [paper](/files/acl2020.pdf) examining work on bias in NLP has been accepted to [ACL 2020](http://acl2020.org/)!
+**Apr. 2020:** Our [paper](https://www.aclweb.org/anthology/2020.acl-main.485.pdf) examining work on bias in NLP has been accepted to [ACL 2020](http://acl2020.org/)!
 
 **Feb. 2020:** I defended my thesis proposal!
 
