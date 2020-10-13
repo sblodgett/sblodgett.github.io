@@ -7,19 +7,25 @@ author_profile: true
 
 ## Talks
 
-**Oct. 2019:** Conference on New Directions in Analyzing Text as Data, Stanford University.
+**Aug. 2020:** "Language and Justice: Understanding Harms in NLP Systems and Practices." Educational Testing Service.
 
-**Apr. 2019:** Computational Social Science Institute Seminar, University of Massachusetts Amherst.
+**Feb. 2020:** "Sociolinguistically Driven Approaches for Justice in Natural Language Processing Systems." Microsoft Research New York.
 
-**Nov. 2018:** New Methods in Computational Sociolinguistics, Leiden, Netherlands.
+**Nov. 2019:** "Fairness and Justice in Natural Language Processing." Womxn in Computer Science, Dartmouth College.
 
-**June 2018:** Summer Dialect Research Project, Department of Linguistics, University of Massachusetts Amherst.
+**Oct. 2019:** "Debunking Debiasing: A Critique of Bias Measurement in NLP." Conference on New Directions in Analyzing Text as Data, Stanford University.
 
-**Apr. 2017:** Data Science Research Symposium, University of Massachusetts Amherst.
+**Apr. 2019:** "Demographic Dialectal Variation in Social Media." Computational Social Science Institute Seminar, University of Massachusetts Amherst.
 
-**Apr. 2017:** Computational Linguistics Workshop, Department of Linguistics, University of Massachusetts Amherst.
+**Nov. 2018:** "_____." New Methods in Computational Sociolinguistics, Leiden, Netherlands.
 
-**Nov. 2016:** CS Colloquium, Wellesley College.
+**June 2018:** "_____." Summer Dialect Research Project, Department of Linguistics, University of Massachusetts Amherst.
+
+**Apr. 2017:** "_____." Data Science Research Symposium, University of Massachusetts Amherst.
+
+**Apr. 2017:** "_____." Computational Linguistics Workshop, Department of Linguistics, University of Massachusetts Amherst.
+
+**Nov. 2016:** "_____." CS Colloquium, Wellesley College.
 
 ## Teaching
 
