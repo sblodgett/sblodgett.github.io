@@ -13,7 +13,7 @@ name                     : &name "Su Lin Blodgett"
 description              : &description ""
 url                      : https://sblodgett.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sblodgett.github.io"
+repository               : "sblodgett/sblodgett.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Su Lin Blodgett"
   avatar           : "headshot.jpg"
-  bio              : "Email: sulin [dot] blodgett [at] microsoft [dot] com"
+  bio              :
   location         :
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=8jbAkOUAAAAJ&hl=en"
-  email            :
+  email            : "sulin [dot] blodgett [at] microsoft [dot] com"
   researchgate     :
   uri              :
   bitbucket        :
@@ -107,7 +107,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "@sulin_blodgett"
   vine             :
   weibo            :
   xing             :
