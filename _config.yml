@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Su Lin Blodgett"
 title_separator          : "-"
 name                     : &name "Su Lin Blodgett"
-description              : &description "Computer science PhD candidate"
+description              : &description ""
 url                      : https://sblodgett.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sblodgett.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Su Lin Blodgett"
-  avatar           : "profile.jpg"
-  bio              : "Email: blodgett [at] cs [dot] umass [dot] edu"
+  avatar           : "headshot.jpg"
+  bio              : "Email: sulin [dot] blodgett [at] microsoft [dot] com"
   location         :
   employer         :
-  googlescholar    : "https://scholar.google.it/citations?hl=en&user=8jbAkOUAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=8jbAkOUAAAAJ&hl=en"
   email            :
-  researchgate     :  
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -101,13 +101,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
