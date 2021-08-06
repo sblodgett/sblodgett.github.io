@@ -44,7 +44,7 @@ author_profile: true
 * "Language and Justice". University of Wisconsin-Madison. 2020.
 * "NLP and Social Good". University of Massachusetts Amherst. 2020.
 * "Ethics in NLP". University of Massachusetts Amherst. 2020.
-* ____. Mount Holyoke College. 2020.
+* ________. Mount Holyoke College. 2020.
 * "Ethics in Machine Learning". Mount Holyoke College. 2020.
 * "Variation in Social Media". Mount Holyoke College. 2017.
-* ____. University of Massachusetts Amherst. 2017.
+* ________. University of Massachusetts Amherst. 2017.
