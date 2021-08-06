@@ -33,7 +33,7 @@ author_profile: true
 
 ## 2017
 
-*A Dataset and Classifier for Recognizing Social Media English.* **Su Lin Blodgett**, Johnny Tian-Zheng Wei, and Brendan O'Connor. 3rd Workshop on Noisy User-Generated Text (W-NUT), EMNLP. **W-NUT Best Paper Award.** [[paper](https://aclanthology.org/W17-4408/)] [[data](http://slanglab.cs.umass.edu/TwitterLangID/)]
+*A Dataset and Classifier for Recognizing Social Media English.* **Su Lin Blodgett**, Johnny Tian-Zheng Wei, and Brendan O'Connor. 3rd Workshop on Noisy User-Generated Text (W-NUT). **W-NUT Best Paper Award.** [[paper](https://aclanthology.org/W17-4408/)] [[data](http://slanglab.cs.umass.edu/TwitterLangID/)]
 
 *Racial Disparity in Natural Language Processing: A Case Study of Social Media African-American English.* **Su Lin Blodgett** and Brendan O'Connor. Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Workshop, KDD. [[paper](https://arxiv.org/pdf/1707.00061.pdf)] [[data](http://slanglab.cs.umass.edu/TwitterLangID/)]
 
