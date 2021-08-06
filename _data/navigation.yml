@@ -1,13 +1,16 @@
 # main links links
 main:
-  # - title: "About"
-  #   url: /about/ 
+  - title: "about"
+    url: /about/
 
-  - title: "Publications" 
+  - title: "publications"
     url: /publications/
-    
-  - title: "CV"
-    url: /files/blodgett_cv.pdf
 
-  - title: "Other"
+  - title: "talks and teaching"
+    url: /talks-teaching/
+
+  - title: "other"
     url: /other/
+
+  - title: "cv"
+    url: /files/blodgett_cv.pdf

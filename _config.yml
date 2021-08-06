@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Su Lin Blodgett"
-title_separator          : "-"
-name                     : &name "Su Lin Blodgett"
-description              : &description ""
+title                    :
+title_separator          :
+name                     : "Su Lin Blodgett"
+description              :
 url                      : https://sblodgett.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sblodgett/sblodgett.github.io"
