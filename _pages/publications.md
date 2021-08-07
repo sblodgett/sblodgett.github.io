@@ -40,7 +40,7 @@ author_profile: true
 ## 2016
 *Demographic Dialectal Variation in Social Media: A Case Study of African-American English.* **Su Lin Blodgett**, Lisa Green, and Brendan O'Connor. Conference on Empirical Methods in Natural Language Processing (EMNLP). [[paper](https://aclanthology.org/D16-1120/)] [[data](http://slanglab.cs.umass.edu/TwitterAAE/)]
 
-*Visualizing Textual Models with In-Text and Word-as-Pixel Highlighting.* Abram Handler, **Su Lin Blodgett**, and Brendan O'Connor. Proceedings of the Workshop on Human Interpretability in Machine Learning (WHI), ICML. [[paper](https://arxiv.org/pdf/1606.06352v1.pdf)]
+*Visualizing Textual Models with In-Text and Word-as-Pixel Highlighting.* Abram Handler, **Su Lin Blodgett**, and Brendan O'Connor. Proceedings of the Workshop on Human Interpretability in Machine Learning (WHI). [[paper](https://arxiv.org/pdf/1606.06352v1.pdf)]
 
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
