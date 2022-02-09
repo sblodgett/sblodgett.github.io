@@ -15,8 +15,6 @@ I am a postdoctoral researcher in the [Fairness, Accountability, Transparency, a
 
 Previously, I completed my Ph.D. in computer science at the University of Massachusetts Amherst working in the [Statistical Social Language Analysis Lab](http://slanglab.cs.umass.edu/) under the guidance of [Brendan O'Connor](http://brenocon.com/), where I was also supported by the NSF Graduate Research Fellowship. I received my B.A. in mathematics from Wellesley College. I interned at [Microsoft Research New York](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/) in summer 2019, where I was very fortunate to work with Solon Barocas, Hal Daumé III, and Hanna Wallach.
 
-I'm always happy to chat; if you're a student and
-
 ## recent news
 
 **Dec. 2021:** Honored to have been named one of the [100 Brilliant Women in AI Ethics](https://womeninaiethics.org/the-list/of-2022/) for 2022.
