@@ -12,6 +12,13 @@ author_profile: true
 
 ## invited talks and panels
 
+* "Towards Equitable Language Technologies". Linguistics Colloquium Series, University of Washington. January 2022.
+* ________. Cultural Assessment Working Group, Digital Library Federation. December 2021.
+* ________. Computer Science Colloquium, Williams College. November 2021.
+* Language and Justice: Social Implications of Language Technologies". Bocconi University. October 2021.
+* "Computational Approaches to Measuring Stereotyping in Language". Workshop on Generics and Stereotypes in Language, Institute for Language, Logic and Computation, the University of Amsterdam. September 2021.
+* Towards Building Equitable Language Technologies". Responsible Data Science and AI Speaker Series, University of Illinois at Urbana-Champaign. August 2021.
+* Invited panelist. Workshop on Foundation Models, Stanford Institute for Human-Centered AI (HAI). August 2021.
 * "Towards Building Equitable Language Technologies". xAI Discussion Group, Aggregate Intellect. July 2021.
 * Invited panelist, Ethics in AI Panel. Level 3 AI Assistant Conference (L3-AI). June 2021.
 * "Towards Building Equitable Language Technologies". Annual Linguistics Student Association Spring Colloquium, San Diego State University. May 2021.
@@ -41,6 +48,8 @@ author_profile: true
 
 ## guest lectures
 
+* "Language, Language Technologies, and Justice". Georgia Institute of Technology. 2022.
+* "Towards Equitable Language Technologies". University of Massachusetts Amherst. 2021.
 * "Language and Justice". University of Wisconsin-Madison. 2020.
 * "NLP and Social Good". University of Massachusetts Amherst. 2020.
 * "Ethics in NLP". University of Massachusetts Amherst. 2020.
