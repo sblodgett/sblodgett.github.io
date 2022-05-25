@@ -85,7 +85,7 @@ author:
   twitter: "@sulin_blodgett"
   links:
     - label: "sulin [dot] blodgett [at] microsoft [dot] com"
-      icon: fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
     - label: "Semantic Scholar"
       icon: "ai ai-google-scholar-square"
       url: "https://www.semanticscholar.org/author/Su-Lin-Blodgett/3422038"
