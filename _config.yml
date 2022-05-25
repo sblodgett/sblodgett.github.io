@@ -86,7 +86,7 @@ author:
   # location         :
   links:
     - label: "Semantic Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "ai ai-google-scholar-square"
       url: "https://www.semanticscholar.org/author/Su-Lin-Blodgett/3422038"
   employer         :
   googlescholar    :
