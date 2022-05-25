@@ -85,7 +85,8 @@ author:
   bio              : "Email: sulin [dot] blodgett [at] microsoft [dot] com"
   location         :
   employer         :
-  googlescholar    : "https://www.semanticscholar.org/author/Su-Lin-Blodgett/3422038"
+  googlescholar    :
+  semanticscholar  : "https://www.semanticscholar.org/author/Su-Lin-Blodgett/3422038"
   email            :
   researchgate     :
   uri              :
