@@ -83,7 +83,7 @@ author:
   name             : "Su Lin Blodgett"
   avatar           : "headshot.jpg"
   bio              : "Email: sulin [dot] blodgett [at] microsoft [dot] com"
-  location         :
+  # location         :
   links:
     - label: "Semantic Scholar"
       icon: "fab fa-fw fa-graduation-cap"
