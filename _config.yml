@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Su Lin Blodgett"
   avatar           : "headshot.jpg"
-  bio              : "Email: sulin [dot] blodgett [at] microsoft [dot] com <br>
-                      [Semantic Scholar](https://www.semanticscholar.org/author/Su-Lin-Blodgett/3422038)"
+  bio              : "Email: sulin [dot] blodgett [at] microsoft [dot] com"
   # location         :
   # links            :
   #   - label: "Semantic Scholar"
