@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
+## 2022
+
+*Examining Responsibility and Deliberation in AI Impact Statements and Ethics Reviews.* David Liu, Priyanka Nanayakkara, Sarah Sakha, Grace Abuhamad, **Su Lin Blodgett**, Nicholas Diakopoulos, Jessica Hullman and Tina Eliassi-Rad. Conference on Artificial Intelligence, Ethics, and Society (AIES).
+
+*Deconstructing NLG Evaluation: Evaluation Practices, Assumptions, and Their Implications.* Kaitlyn Zhou, **Su Lin Blodgett**, Adam Trischler, Hal Daumé III, Kaheer Suleman, and Alexandra Olteanu. North American Chapter of the Association for Computational Linguistics (NAACL). [[paper](https://arxiv.org/abs/2205.06828)]
+
+*Beyond "Fairness": Structural Injustice Lenses On AI for Education.* Michael Madaio, **Su Lin Blodgett**, Elijah Mayfield, and Ezekiel Dixon-Román. Invited chapter in **The Ethics of Artificial Intelligence in Education: Current Challenges, Practices and Debates**, Wayne Holmes and Kaśka Porayska-Pomsta (Eds.), Routledge. Forthcoming.
+
 ## 2021
 
 *Stereotyping Norwegian Salmon: An Inventory of Pitfalls in Fairness Benchmark Datasets.* **Su Lin Blodgett**, Gilsinia Lopez, Alexandra Olteanu, Robert Sim, and Hanna Wallach. Annual Meeting of the Association for Computational Linguistics (ACL). [[paper](https://aclanthology.org/2021.acl-long.81/)] [[slides](https://sblodgett.github.io/files/acl-2021-salmon-slides.pdf)]
@@ -29,7 +37,7 @@ author_profile: true
 
 *Twitter Universal Dependency Parsing for African-American and Mainstream American English.* **Su Lin Blodgett**, Johnny Tian-Zheng Wei, and Brendan O'Connor. Annual Meeting of the Association for Computational Linguistics (ACL). [[paper](https://aclanthology.org/P18-1131/)] [[data](http://slanglab.cs.umass.edu/TwitterAAE/)]
 
-*Monte Carlo Syntax Marginals for Exploring and Using Dependency Parses.* Katherine Keith, **Su Lin Blodgett**, and Brendan O'Connor. Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL). [[paper](https://aclanthology.org/N18-1084/)]
+*Monte Carlo Syntax Marginals for Exploring and Using Dependency Parses.* Katherine Keith, **Su Lin Blodgett**, and Brendan O'Connor. North American Chapter of the Association for Computational Linguistics (NAACL). [[paper](https://aclanthology.org/N18-1084/)]
 
 ## 2017
 
