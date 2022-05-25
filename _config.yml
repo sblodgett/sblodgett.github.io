@@ -80,43 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Su Lin Blodgett"
-  avatar           : "headshot.jpg"
-  bio              : "Email: sulin [dot] blodgett [at] microsoft [dot] com"
-  # location         :
-  # links            :
-  #   - label: "Semantic Scholar"
-  #     icon: "ai ai-google-scholar-square"
-  #     url: "https://www.semanticscholar.org/author/Su-Lin-Blodgett/3422038"
-  employer         :
-  googlescholar    :
-  email            :
-  researchgate     :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  orcid            :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    :
-  steam            :
-  tumblr           :
-  twitter          : "@sulin_blodgett"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  name: "Su Lin Blodgett"
+  avatar: "headshot.jpg"
+  # bio: "Email: sulin [dot] blodgett [at] microsoft [dot] com"
+  email: "sulin [dot] blodgett [at] microsoft [dot] com"
+  twitter: "@sulin_blodgett"
+  links:
+    - label: "Semantic Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://www.semanticscholar.org/author/Su-Lin-Blodgett/3422038"
 
 
 # Reading Files
