@@ -23,7 +23,7 @@ author_profile: true
 
 *Stereotyping Norwegian Salmon: An Inventory of Pitfalls in Fairness Benchmark Datasets.* **Su Lin Blodgett**, Gilsinia Lopez, Alexandra Olteanu, Robert Sim, and Hanna Wallach. Annual Meeting of the Association for Computational Linguistics (ACL). [[paper](https://aclanthology.org/2021.acl-long.81/)] [[slides](https://sblodgett.github.io/files/acl-2021-salmon-slides.pdf)]
 
-*A Survey of Race, Racism, and Anti-Racism in NLP.* Anjalie Field, **Su Lin Blodgett**, Zeerak Waseem, and Yulia Tsvetkov. Annual Meeting of the Association for Computational Linguistics (ACL). [[paper](https://aclanthology.org/2021.acl-long.149/)]
+*A Survey of Race, Racism, and Anti-Racism in NLP.* Anjalie Field, **Su Lin Blodgett**, Zeerak Talat, and Yulia Tsvetkov. Annual Meeting of the Association for Computational Linguistics (ACL). [[paper](https://aclanthology.org/2021.acl-long.149/)]
 <!-- *Representational Harms in Image Captioning and Labeling.* Jared Katzman, Solon Barocas, **Su Lin Blodgett**, Kristen Laird, Hanna Wallach and Morgan Klaus Scheuerman. Beyond Fairness: Towards a Just, Equitable, and Accountable Computer Vision Workshop (CVPR). [[pdf](https://drive.google.com/file/d/1oJp8CqNpYEsOlO8cwv4cTnHGbOjWxEZ-/view)] -->
   <!-- * also presented at the Measures and Best Practices for Responsible AI Workshop at KDD -->
 
