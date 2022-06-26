@@ -17,6 +17,8 @@ I was previously a postdoctoral researcher at MSR Montréal. I completed my Ph.D
 
 ## recent news
 
+**June 2022:** I gave keynotes at the [Second Workshop on Language Technology for Equality, Diversity, and Inclusion](https://sites.google.com/view/lt-edi-2022/home) and the [1st Workshop on Perspectivist Approaches to NLP](https://nlperspectives.di.unito.it/).
+
 **May 2022:** Delighted to be continuing at MSR Montréal as a senior researcher!
 
 **May 2022:** Our [paper](https://arxiv.org/abs/2205.06828) exploring NLG practitioners' evaluation assumptions and practices, led by Kaitlyn Zhou, has been accepted to NAACL 2022.
