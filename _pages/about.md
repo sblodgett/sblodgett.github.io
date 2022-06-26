@@ -21,6 +21,8 @@ I was previously a postdoctoral researcher at MSR Montréal. I completed my Ph.D
 
 **May 2022:** Delighted to be continuing at MSR Montréal as a senior researcher!
 
+**May 2022:** Honored to have served as ethics co-chair for [ACL 2022](https://www.2022.aclweb.org/).
+
 **May 2022:** Our [paper](https://arxiv.org/abs/2205.06828) exploring NLG practitioners' evaluation assumptions and practices, led by Kaitlyn Zhou, has been accepted to NAACL 2022.
 
 **May 2022:** Q. Vera Liao, Alexandra Olteanu, and I co-organized a CHI panel: ["Responsible Language Technologies: Foreseeing and Mitigating Harms"](https://dl.acm.org/doi/abs/10.1145/3491101.3516502).
