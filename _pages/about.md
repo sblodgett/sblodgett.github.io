@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 
-I am a senior researcher in the [Fairness, Accountability, Transparency, and Ethics (FATE)](https://www.microsoft.com/en-us/research/theme/fate/) group at [Microsoft Research Montréal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/). I'm broadly interested in examining the social and ethical implications of natural language processing technologies; I develop approaches for anticipating, measuring, and mitigating harms arising from language technologies, focusing on the complexities of language and language technologies in their social contexts, and on supporting NLP practitioners in their ethical work. I've also worked on using NLP approaches to examine language variation and change (computational sociolinguistics), for example developing models to identify language variation on social media.
+I am a senior researcher in the [Fairness, Accountability, Transparency, and Ethics in AI (FATE)](https://www.microsoft.com/en-us/research/theme/fate/) group at [Microsoft Research Montréal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/). I'm broadly interested in examining the social and ethical implications of natural language processing technologies; I develop approaches for anticipating, measuring, and mitigating harms arising from language technologies, focusing on the complexities of language and language technologies in their social contexts, and on supporting NLP practitioners in their ethical work. I've also worked on using NLP approaches to examine language variation and change (computational sociolinguistics), for example developing models to identify language variation on social media.
 
 <!-- I've worked on developing models to identify language variation on social media, on applying lessons from sociolinguistics and linguistic anthropology to conceptualizing harms arising from NLP systems, and on using the language of measurement modeling to rigorously analyze approaches to quantifying bias in NLP. -->
 <!-- , drawing on insights from fields such as sociolinguistics, linguistic anthropology, and education,  including people's lived experiences with these technologies, -->
 
-I was previously a postdoctoral researcher at MSR Montréal. I completed my Ph.D. in computer science at the University of Massachusetts Amherst working in the [Statistical Social Language Analysis Lab](http://slanglab.cs.umass.edu/) under the guidance of [Brendan O'Connor](http://brenocon.com/), where I was also supported by the NSF Graduate Research Fellowship. I received my B.A. in mathematics from Wellesley College. I interned at [Microsoft Research New York](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/) in summer 2019, where I was very fortunate to work with Solon Barocas, Hal Daumé III, and Hanna Wallach.
+I was previously a postdoctoral researcher at MSR Montréal. I completed my Ph.D. in computer science at the University of Massachusetts Amherst working in the [Statistical Social Language Analysis Lab](http://slanglab.cs.umass.edu/) under the guidance of [Brendan O'Connor](http://brenocon.com/), where I was also supported by the NSF Graduate Research Fellowship. I received my B.A. in mathematics from Wellesley College. I interned at [Microsoft Research New York](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/) in summer 2019, where I had the fortune of working with Solon Barocas, Hal Daumé III, and Hanna Wallach.
 
 ## recent news
 
@@ -23,7 +23,7 @@ I was previously a postdoctoral researcher at MSR Montréal. I completed my Ph.D
 
 **May 2022:** Honored to have served as ethics co-chair for [ACL 2022](https://www.2022.aclweb.org/).
 
-**May 2022:** Our [paper](https://arxiv.org/abs/2205.06828) exploring NLG practitioners' evaluation assumptions and practices, led by Kaitlyn Zhou, has been accepted to NAACL 2022.
+**May 2022:** Our [paper](https://aclanthology.org/2022.naacl-main.24/) exploring NLG practitioners' evaluation assumptions and practices, led by Kaitlyn Zhou, has been accepted to NAACL 2022.
 
 **May 2022:** Q. Vera Liao, Alexandra Olteanu, and I co-organized a CHI panel: ["Responsible Language Technologies: Foreseeing and Mitigating Harms"](https://dl.acm.org/doi/abs/10.1145/3491101.3516502).
 

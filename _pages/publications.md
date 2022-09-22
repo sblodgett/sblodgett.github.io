@@ -13,9 +13,9 @@ author_profile: true
 
 ## 2022
 
-*Examining Responsibility and Deliberation in AI Impact Statements and Ethics Reviews.* David Liu, Priyanka Nanayakkara, Sarah Sakha, Grace Abuhamad, **Su Lin Blodgett**, Nicholas Diakopoulos, Jessica Hullman and Tina Eliassi-Rad. Conference on Artificial Intelligence, Ethics, and Society (AIES).
+*Examining Responsibility and Deliberation in AI Impact Statements and Ethics Reviews.* David Liu, Priyanka Nanayakkara, Sarah Sakha, Grace Abuhamad, **Su Lin Blodgett**, Nicholas Diakopoulos, Jessica Hullman and Tina Eliassi-Rad. Conference on Artificial Intelligence, Ethics, and Society (AIES). [[paper](https://dl.acm.org/doi/10.1145/3514094.3534155)]
 
-*Deconstructing NLG Evaluation: Evaluation Practices, Assumptions, and Their Implications.* Kaitlyn Zhou, **Su Lin Blodgett**, Adam Trischler, Hal Daumé III, Kaheer Suleman, and Alexandra Olteanu. North American Chapter of the Association for Computational Linguistics (NAACL). [[paper](https://arxiv.org/abs/2205.06828)]
+*Deconstructing NLG Evaluation: Evaluation Practices, Assumptions, and Their Implications.* Kaitlyn Zhou, **Su Lin Blodgett**, Adam Trischler, Hal Daumé III, Kaheer Suleman, and Alexandra Olteanu. North American Chapter of the Association for Computational Linguistics (NAACL). [[paper](https://aclanthology.org/2022.naacl-main.24/)]
 
 *Beyond "Fairness": Structural Injustice Lenses On AI for Education.* Michael Madaio, **Su Lin Blodgett**, Elijah Mayfield, and Ezekiel Dixon-Román. Invited chapter in **The Ethics of Artificial Intelligence in Education: Current Challenges, Practices and Debates**, Wayne Holmes and Kaśka Porayska-Pomsta (Eds.), Routledge. Forthcoming.
 
