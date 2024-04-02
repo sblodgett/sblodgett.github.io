@@ -17,6 +17,24 @@ I was previously a postdoctoral researcher at MSR Montréal. I completed my Ph.D
 
 ## recent news
 
+**Mar. 2024:** Two papers accepted to NAACL 2024: one examining expectations around what constitute fair or good NLG system behaviors, and the other examining the shifting landscape of practices and assumptions around disagreement in data labeling.
+
+**Nov. 2023:** I was a guest speaker at the [Gender & Tech event](https://www.polis.cam.ac.uk/events/gender-tech-event-0), hosted by the University of Cambridge Centre for Gender Studies to celebrate [The Good Robot Podcast](https://www.thegoodrobot.co.uk/) and the launch of a [volume on feminist AI](https://global.oup.com/academic/product/feminist-ai-9780192889898)!
+
+**Oct. 2023:** Our [paper](https://aclanthology.org/2023.findings-emnlp.413/) on responsible AI practices in text summarization research has been accepted to Findings of EMNLP 2023.
+
+**Oct. 2023:** Jackie C.K. Cheung, Vera Liao, Ziang Xiao, and I will be co-organizing a tutorial on human-centered evaluation of language technologies at EMNLP 2024!
+
+**Oct. 2023:** The [third edition of our workshop bridging HCI and NLP](https://sites.google.com/view/hciandnlp/home) will take place at NAACL 2024 (co-organized with Amanda Cercas Curry, Sunipa Dev, Michael Madaio, Ani Nenkova, Ziang Xiao, and Diyi Yang)!
+
+**July 2023:** I gave a keynote at the Workshop on Online Abuse and Harms (WOAH) at ACL 2023.
+
+**June 2023:** I gave a keynote at the [Workshop on Algorithmic Injustice](https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-geesteswetenschappen/events/2023/06/workshop-on-algorithmic-injustice.html) at the University of Amsterdam, and participated in a [panel on algorithmic injustice](https://spui25.nl/programma/algorithmic-injustice) at SPUI25.
+
+**May 2023:** One [paper](https://aclanthology.org/2023.acl-long.343/) contributing a dataset for evaluating fairness-related harms in text generation accepted to ACL 2023, and two more accepted to Findings of ACL: a [paper](https://aclanthology.org/2023.findings-acl.202/) on conceptualizations of NLP tasks and benchmarks and a [paper](https://aclanthology.org/2023.findings-acl.139/) on the landscape of prompt-based measurements of bias.
+
+**Nov. 2022:** Our [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26670) on representational harms in image tagging has been accepted to AAAI 2023.
+
 **June 2022:** I gave keynotes at the [Second Workshop on Language Technology for Equality, Diversity, and Inclusion](https://sites.google.com/view/lt-edi-2022/home) and the [1st Workshop on Perspectivist Approaches to NLP](https://nlperspectives.di.unito.it/).
 
 **May 2022:** Delighted to be continuing at MSR Montréal as a senior researcher!
@@ -29,17 +47,17 @@ I was previously a postdoctoral researcher at MSR Montréal. I completed my Ph.D
 
 **Dec. 2021:** Honored to have been named one of the [100 Brilliant Women in AI Ethics](https://womeninaiethics.org/the-list/of-2022/) for 2022.
 
-**Dec. 2021:** The [second edition of our workshop bridging HCI and NLP](https://sites.google.com/view/hciandnlp/home) will take place at NAACL (co-organized with Hal Daumé III, Michael Madaio, Ani Nenkova, Brendan O'Connor, Hanna Wallach, and Qian Yang).
+**Dec. 2021:** The [second edition of our workshop bridging HCI and NLP](https://sites.google.com/view/hciandnlp-2022/) will take place at NAACL 2022 (co-organized with Hal Daumé III, Michael Madaio, Ani Nenkova, Brendan O'Connor, Hanna Wallach, and Qian Yang).
 
 **May 2021:** Two papers accepted to ACL 2021: a [paper](https://aclanthology.org/2021.acl-long.81/) investigating four benchmark datasets for measuring stereotyping, and a [paper](https://aclanthology.org/2021.acl-long.149/) examining race, racism, and anti-racism in NLP.
 
-**Apr. 2021:** We co-organized a [workshop](https://sites.google.com/view/hciandnlp-2021) at the intersection of human-computer interaction and natural language processing (with Michael Madaio, Brendan O'Connor, Hanna Wallach, and Qian Yang).
+**Apr. 2021:** We co-organized a [workshop](https://sites.google.com/view/hciandnlp-2021) at EACL 2021 at the intersection of human-computer interaction and natural language processing (with Michael Madaio, Brendan O'Connor, Hanna Wallach, and Qian Yang).
 
-**Oct. 2020:** I started a postdoc at Microsoft Research!
+<!-- **Oct. 2020:** I started a postdoc at Microsoft Research! -->
 
-**Sept. 2020:** I defended my thesis virtually!
+<!-- **Sept. 2020:** I defended my thesis virtually! -->
 
-**Apr. 2020:** Our [paper](https://www.aclweb.org/anthology/2020.acl-main.485.pdf) examining work on bias in NLP has been accepted to ACL 2020.
+<!-- **Apr. 2020:** Our [paper](https://www.aclweb.org/anthology/2020.acl-main.485.pdf) examining work on bias in NLP has been accepted to ACL 2020. -->
 
 <!-- **Feb. 2020:** I defended my thesis proposal! -->
 
