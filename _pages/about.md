@@ -27,7 +27,7 @@ I was previously a postdoctoral researcher at MSR Montréal. I completed my Ph.D
 
 **Oct. 2023:** The [third edition of our workshop bridging HCI and NLP](https://sites.google.com/view/hciandnlp/home) will take place at NAACL 2024 (co-organized with Amanda Cercas Curry, Sunipa Dev, Michael Madaio, Ani Nenkova, Ziang Xiao, and Diyi Yang)!
 
-**July 2023:** I gave a keynote at the Workshop on Online Abuse and Harms (WOAH) at ACL 2023.
+**July 2023:** I gave a keynote at the [Workshop on Online Abuse and Harms (WOAH)](https://www.workshopononlineabuse.com/) at ACL 2023.
 
 **June 2023:** I gave a keynote at the [Workshop on Algorithmic Injustice](https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-geesteswetenschappen/events/2023/06/workshop-on-algorithmic-injustice.html) at the University of Amsterdam, and participated in a [panel on algorithmic injustice](https://spui25.nl/programma/algorithmic-injustice) at SPUI25.
 
