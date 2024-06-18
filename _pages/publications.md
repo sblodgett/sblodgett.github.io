@@ -25,10 +25,14 @@ author_profile: true
 
 ## 2024
 
-*"*One-size-fits-all?*" Examining Expectations around What Constitute "Fair" or "Good" NLG System Behaviors.* Li Lucy, **Su Lin Blodgett**, Milad Shokouhi, Hanna Wallach, and Alexandra Olteanu. NAACL.
+*ECBD: Evidence-Centered Benchmark Design for NLP.* Yu Lu Liu, **Su Lin Blodgett**, Jackie Chi Kit Cheung, Q. Vera Liao, Alexandra Olteanu, and Ziang Xiao. ACL. [[paper](https://arxiv.org/abs/2406.08723)]
+
+*Understanding the Impacts of Language Technologies’ Performance Disparities on African American Language Speakers*. Jay L. Cunningham, **Su Lin Blodgett**, Hal Daumé III, Christina Harrington, Hanna Wallach, and Michael Madaio. Findings of ACL.
+
+*"*One-size-fits-all?*" Examining Expectations around What Constitute "Fair" or "Good" NLG System Behaviors.* Li Lucy, **Su Lin Blodgett**, Milad Shokouhi, Hanna Wallach, and Alexandra Olteanu. NAACL. [[paper](https://aclanthology.org/2024.naacl-long.61/)]
 <!-- [[paper](https://arxiv.org/abs/2310.15398)] -->
 
-*The Perspectivist Paradigm Shift: Assumptions and Challenges of Capturing Human Labels.* Eve Fleisig, **Su Lin Blodgett**, Dan Klein, and Zeerak Talat. NAACL.
+*The Perspectivist Paradigm Shift: Assumptions and Challenges of Capturing Human Labels.* Eve Fleisig, **Su Lin Blodgett**, Dan Klein, and Zeerak Talat. NAACL. [[paper](https://aclanthology.org/2024.naacl-long.126/)]
 
 ## 2023
 

@@ -17,7 +17,9 @@ I was previously a postdoctoral researcher at MSR Montréal. I completed my Ph.D
 
 ## recent news
 
-**Mar. 2024:** Two papers accepted to NAACL 2024: one examining expectations around what constitute fair or good NLG system behaviors, led by Lucy Li, and the other examining the shifting landscape of practices and assumptions around disagreement in data labeling.
+**May 2024:** One paper accepted to ACL 2024 contributing a framework formalizing the benchmark design process, led by Yu Lu Liu, and another to Findings of ACL on impacts of language technologies' disparities on African American Language speakers, led by Jay Cunningham.
+
+**Mar. 2024:** Two papers accepted to NAACL 2024: [one](https://aclanthology.org/2024.naacl-long.61/) examining expectations around what constitute fair or good NLG system behaviors, led by Lucy Li, and the [other](https://aclanthology.org/2024.naacl-long.126/) examining the shifting landscape of practices and assumptions around disagreement in data labeling.
 
 **Nov. 2023:** I was a guest speaker at the [Gender & Tech event](https://www.polis.cam.ac.uk/events/gender-tech-event-0), hosted by the University of Cambridge Centre for Gender Studies to celebrate [The Good Robot Podcast](https://www.thegoodrobot.co.uk/) and the launch of a [volume on feminist AI](https://global.oup.com/academic/product/feminist-ai-9780192889898)!
 
@@ -31,7 +33,7 @@ I was previously a postdoctoral researcher at MSR Montréal. I completed my Ph.D
 
 **June 2023:** I gave a keynote at the [Workshop on Algorithmic Injustice](https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-geesteswetenschappen/events/2023/06/workshop-on-algorithmic-injustice.html) at the University of Amsterdam, and participated in a [panel on algorithmic injustice](https://spui25.nl/programma/algorithmic-injustice) at SPUI25.
 
-**May 2023:** One [paper](https://aclanthology.org/2023.acl-long.343/) contributing a dataset for evaluating fairness-related harms in text generation, led by Eve Fleisig, accepted to ACL 2023, and two more accepted to Findings of ACL: a [paper](https://aclanthology.org/2023.findings-acl.202/) on conceptualizations of NLP tasks and benchmarks led by Arjun Subramonian, and a [paper](https://aclanthology.org/2023.findings-acl.139/) on the landscape of prompt-based measurements of bias.
+**May 2023:** One [paper](https://aclanthology.org/2023.acl-long.343/) accepted to ACL 2023 contributing a dataset for evaluating fairness-related harms in text generation, led by Eve Fleisig, and two more accepted to Findings of ACL: a [paper](https://aclanthology.org/2023.findings-acl.202/) on conceptualizations of NLP tasks and benchmarks led by Arjun Subramonian, and a [paper](https://aclanthology.org/2023.findings-acl.139/) on the landscape of prompt-based measurements of bias.
 
 **Nov. 2022:** Our [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26670) on representational harms in image tagging has been accepted to AAAI 2023.
 
