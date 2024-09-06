@@ -17,7 +17,7 @@ I was previously a postdoctoral researcher at MSR Montréal. I completed my Ph.D
 
 ## recent news
 
-**May 2024:** One paper accepted to ACL 2024 contributing a framework formalizing the benchmark design process, led by Yu Lu Liu, and another to Findings of ACL on impacts of language technologies' disparities on African American Language speakers, led by Jay Cunningham.
+**May 2024:** One [paper](https://aclanthology.org/2024.acl-long.861/) accepted to ACL 2024 contributing a framework formalizing the benchmark design process, led by Yu Lu Liu, and [another](https://aclanthology.org/2024.findings-acl.761/) to Findings of ACL on impacts of language technologies' disparities on African American Language speakers, led by Jay Cunningham.
 
 **Mar. 2024:** Two papers accepted to NAACL 2024: [one](https://aclanthology.org/2024.naacl-long.61/) examining expectations around what constitute fair or good NLG system behaviors, led by Lucy Li, and the [other](https://aclanthology.org/2024.naacl-long.126/) examining the shifting landscape of practices and assumptions around disagreement in data labeling.
 
