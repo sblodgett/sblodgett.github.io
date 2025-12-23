@@ -8,14 +8,38 @@ redirect_from:
 ---
 
 
-I am a senior researcher in the [Fairness, Accountability, Transparency, and Ethics in AI (FATE)](https://www.microsoft.com/en-us/research/theme/fate/) group at [Microsoft Research Montréal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/). I'm broadly interested in examining the social and ethical implications of natural language processing technologies; I develop approaches for anticipating, measuring, and mitigating harms arising from language technologies, focusing on the complexities of language and language technologies in their social contexts, and on supporting NLP practitioners in their ethical work. I've also worked on using NLP approaches to examine language variation and change (computational sociolinguistics), for example developing models to identify language variation on social media.
+I am a principal researcher in the [Fairness, Accountability, Transparency, and Ethics in AI (FATE)](https://www.microsoft.com/en-us/research/theme/fate/) group at [Microsoft Research Montréal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/). I'm broadly interested in examining the social and ethical implications of natural language processing technologies; I develop approaches for anticipating, measuring, and mitigating harms arising from language technologies, focusing on the complexities of language and language technologies in their social contexts, and on supporting NLP practitioners in their ethical work. I've also worked on using NLP approaches to examine language variation and change (computational sociolinguistics), for example developing models to identify language variation on social media. I was named one of the [2022 100 Brilliant Women in AI Ethics](https://womeninaiethics.org/the-list/of-2022/).
 
 <!-- I've worked on developing models to identify language variation on social media, on applying lessons from sociolinguistics and linguistic anthropology to conceptualizing harms arising from NLP systems, and on using the language of measurement modeling to rigorously analyze approaches to quantifying bias in NLP. -->
 <!-- , drawing on insights from fields such as sociolinguistics, linguistic anthropology, and education,  including people's lived experiences with these technologies, -->
 
-I was previously a postdoctoral researcher at MSR Montréal. I completed my Ph.D. in computer science at the University of Massachusetts Amherst working in the [Statistical Social Language Analysis Lab](http://slanglab.cs.umass.edu/) under the guidance of [Brendan O'Connor](http://brenocon.com/), where I was also supported by the NSF Graduate Research Fellowship. I received my B.A. in mathematics from Wellesley College. I interned at [Microsoft Research New York](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/) in summer 2019, where I had the fortune of working with Solon Barocas, Hal Daumé III, and Hanna Wallach.
+I was previously a postdoctoral researcher at MSR Montréal. I completed my Ph.D. in computer science at the University of Massachusetts Amherst working in the [Statistical Social Language Analysis Lab](http://slanglab.cs.umass.edu/) under the guidance of [Brendan O'Connor](http://brenocon.com/), where I was also supported by the NSF Graduate Research Fellowship. I received my B.A. in mathematics from Wellesley College. I interned at [Microsoft Research New York](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/) in summer 2019, where I worked with Solon Barocas, Hal Daumé III, and Hanna Wallach.
 
 ## recent news
+
+**Sept. 2025:** Our [position paper](https://arxiv.org/abs/2506.14652) arguing that AI research and practice needs a broader conception of rigor has been accepted to NeurIPS 2025.
+
+**Sept. 2025:** I am now a principal researcher!
+
+**June 2025:** I'm a General Chair for [FAccT 2026](https://facctconference.org/), to be held in Montréal!
+
+**May 2025:** Our [paper](https://aclanthology.org/2025.acl-long.1259/) on interventions for mitigating anthropomorphic AI system behaviors, led by Myra Cheng, has been accepted to ACL 2025 (with an SAC Highlights Award!), and [another](https://aclanthology.org/2025.findings-acl.947/) on gaps between research and practice when measuring representational harms, led by Emma Harvey, accepted to Findings of ACL.
+
+**May 2025:** Our [position paper](https://arxiv.org/abs/2502.00561) arguing that evaluating generative AI systems is a social science measurement challenge has been accepted to ICML 2025.
+
+**Apr. 2025:** I gave keynotes at the [Human-centered Evaluation and Auditing of Language Models Workshop](https://heal-workshop.github.io/) (CHI 2025) and [Workshop on Noisy and User-generated Text](https://noisy-text.github.io/2025/) (NAACL 2025).
+
+**Apr. 2025:** Our [paper](https://arxiv.org/abs/2402.04420) examining people's experiences of machine learning errors reflecting stereotypes has been accepted to FAccT 2025.
+
+**Jan. 2025:** Our [paper](https://arxiv.org/abs/2502.09870) on linguistic expressions that contribute to anthropomorphism, led by Alicia DeVrio, has been accepted to CHI 2025, and a [blog post](https://d2jud02ci9yv69.cloudfront.net/2025-04-28-anthropomorphic-ai-116/blog/anthropomorphic-ai/) at ICLR 2025.
+
+**Dec. 2024:** I gave a keynote and participated on two panels at the [International Web Information Systems Engineering Conference (WISE) 2024](https://wise2024-qatar.com/).
+
+**Nov. 2024:** The fourth edition of our [workshop bridging HCI and NLP](https://sites.google.com/view/hciandnlp/) will take place at EMNLP 2025 (co-organized with Amanda Cercas Curry, Sunipa Dev, Siyan Li, Michael Madaio, Jack Wang, Sherry Wu, Ziang Xiao, and Diyi Yang)!
+
+**Oct. 2024:** Two tiny papers accepted at the EvalEval Workshop: [one](https://evaleval.github.io/accepted_papers/EvalEval_24_Wallach.pdf) arguing that evaluating generative AI systems is a social science measurement challenge, and [another](https://evaleval.github.io/accepted_papers/EvalEval_24_Harvey.pdf), led by Emma Harvey, on gaps between research and practice when measuring representational harms. I was also on a panel reflecting on the AI evaluation landscape.
+
+**Sept. 2024:** Our [paper](https://arxiv.org/abs/2411.13032) on writers' and readers' conceptions of and experiences with authenticity in AI-assisted writing, led by Angel Hsing-Chi Hwang, has been accepted to CSCW 2025.
 
 **May 2024:** One [paper](https://aclanthology.org/2024.acl-long.861/) accepted to ACL 2024 contributing a framework formalizing the benchmark design process, led by Yu Lu Liu, and [another](https://aclanthology.org/2024.findings-acl.761/) to Findings of ACL on impacts of language technologies' disparities on African American Language speakers, led by Jay Cunningham.
 
@@ -25,9 +49,9 @@ I was previously a postdoctoral researcher at MSR Montréal. I completed my Ph.D
 
 **Oct. 2023:** Our [paper](https://aclanthology.org/2023.findings-emnlp.413/) on responsible AI practices in text summarization research, led by Yu Lu Liu, has been accepted to Findings of EMNLP 2023.
 
-**Oct. 2023:** Jackie C.K. Cheung, Vera Liao, Ziang Xiao, and I will be co-organizing a tutorial on human-centered evaluation of language technologies at EMNLP 2024!
+**Oct. 2023:** Jackie C.K. Cheung, Vera Liao, Ziang Xiao, and I will be co-organizing a [tutorial on human-centered evaluation of language technologies](https://human-centered-eval.github.io/) at EMNLP 2024!
 
-**Oct. 2023:** The [third edition of our workshop bridging HCI and NLP](https://sites.google.com/view/hciandnlp/home) will take place at NAACL 2024 (co-organized with Amanda Cercas Curry, Sunipa Dev, Michael Madaio, Ani Nenkova, Ziang Xiao, and Diyi Yang)!
+**Oct. 2023:** The [third edition of our workshop bridging HCI and NLP](https://sites.google.com/view/hciandnlp-2024/) will take place at NAACL 2024 (co-organized with Amanda Cercas Curry, Sunipa Dev, Michael Madaio, Ani Nenkova, Ziang Xiao, and Diyi Yang)!
 
 **July 2023:** I gave a keynote at the [Workshop on Online Abuse and Harms (WOAH)](https://www.workshopononlineabuse.com/) at ACL 2023.
 
@@ -49,11 +73,11 @@ I was previously a postdoctoral researcher at MSR Montréal. I completed my Ph.D
 
 **Dec. 2021:** Honored to have been named one of the [100 Brilliant Women in AI Ethics](https://womeninaiethics.org/the-list/of-2022/) for 2022.
 
-**Dec. 2021:** The [second edition of our workshop bridging HCI and NLP](https://sites.google.com/view/hciandnlp-2022/) will take place at NAACL 2022 (co-organized with Hal Daumé III, Michael Madaio, Ani Nenkova, Brendan O'Connor, Hanna Wallach, and Qian Yang).
+<!-- **Dec. 2021:** The [second edition of our workshop bridging HCI and NLP](https://sites.google.com/view/hciandnlp-2022/) will take place at NAACL 2022 (co-organized with Hal Daumé III, Michael Madaio, Ani Nenkova, Brendan O'Connor, Hanna Wallach, and Qian Yang). -->
 
-**May 2021:** Two papers accepted to ACL 2021: a [paper](https://aclanthology.org/2021.acl-long.81/) investigating four benchmark datasets for measuring stereotyping, and a [paper](https://aclanthology.org/2021.acl-long.149/) examining race, racism, and anti-racism in NLP.
+<!-- **May 2021:** Two papers accepted to ACL 2021: a [paper](https://aclanthology.org/2021.acl-long.81/) investigating four benchmark datasets for measuring stereotyping, and a [paper](https://aclanthology.org/2021.acl-long.149/) examining race, racism, and anti-racism in NLP. -->
 
-**Apr. 2021:** We co-organized a [workshop](https://sites.google.com/view/hciandnlp-2021) at EACL 2021 at the intersection of human-computer interaction and natural language processing (with Michael Madaio, Brendan O'Connor, Hanna Wallach, and Qian Yang).
+<!-- **Apr. 2021:** We co-organized a [workshop](https://sites.google.com/view/hciandnlp-2021) at EACL 2021 at the intersection of human-computer interaction and natural language processing (with Michael Madaio, Brendan O'Connor, Hanna Wallach, and Qian Yang). -->
 
 <!-- **Oct. 2020:** I started a postdoc at Microsoft Research! -->
 
