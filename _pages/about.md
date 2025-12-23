@@ -21,7 +21,7 @@ I was previously a postdoctoral researcher at MSR Montréal. I completed my Ph.D
 
 **Sept. 2025:** I am now a principal researcher!
 
-**June 2025:** I'm a General Chair for [FAccT 2026](https://facctconference.org/), to be held in Montréal!
+**June 2025:** I'm a General Chair for [FAccT 2026](https://facctconference.org/), to be held in Montréal. [Submit](https://facctconference.org/2026/cfp.html) your work!
 
 **May 2025:** Our [paper](https://aclanthology.org/2025.acl-long.1259/) on interventions for mitigating anthropomorphic AI system behaviors, led by Myra Cheng, has been accepted to ACL 2025 (with an SAC Highlights Award!), and [another](https://aclanthology.org/2025.findings-acl.947/) on gaps between research and practice when measuring representational harms, led by Emma Harvey, accepted to Findings of ACL.
 
