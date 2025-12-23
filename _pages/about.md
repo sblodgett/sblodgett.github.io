@@ -45,7 +45,7 @@ I was previously a postdoctoral researcher at MSR Montréal. I completed my Ph.D
 
 **Mar. 2024:** Two papers accepted to NAACL 2024: [one](https://aclanthology.org/2024.naacl-long.61/) examining expectations around what constitute fair or good NLG system behaviors, led by Lucy Li, and the [other](https://aclanthology.org/2024.naacl-long.126/) examining the shifting landscape of practices and assumptions around disagreement in data labeling.
 
-**Nov. 2023:** I was a guest speaker at the [Gender & Tech event](https://www.polis.cam.ac.uk/events/gender-tech-event-0), hosted by the University of Cambridge Centre for Gender Studies to celebrate [The Good Robot Podcast](https://www.thegoodrobot.co.uk/) and the launch of a [volume on feminist AI](https://global.oup.com/academic/product/feminist-ai-9780192889898)!
+**Nov. 2023:** I was a guest speaker at the Gender & Tech event, hosted by the University of Cambridge Centre for Gender Studies to celebrate [The Good Robot Podcast](https://www.thegoodrobot.co.uk/) and the launch of a [volume on feminist AI](https://global.oup.com/academic/product/feminist-ai-9780192889898)!
 
 **Oct. 2023:** Our [paper](https://aclanthology.org/2023.findings-emnlp.413/) on responsible AI practices in text summarization research, led by Yu Lu Liu, has been accepted to Findings of EMNLP 2023.
 
