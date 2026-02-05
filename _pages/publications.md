@@ -34,6 +34,16 @@ Samer B. Nashed, Justin Svegliato, and **Su Lin Blodgett**.
 Christian Hardmeier, Marta R. Costa-jussà, Kellie Webster, Will Radford, and **Su Lin Blodgett**. 
 [[paper](https://arxiv.org/abs/2104.03026)]
 
+## 2026
+
+*"They are turning to ChatGPT in nearly every aspect of life!" A Framework to Characterize the Uses of Generative AI.*
+Agathe Balayn, Varun Nagaraj Rao, **Su Lin Blodgett**, Aylin Caliskan, and Solon Barocas.
+CHI.
+
+*From Use to Oversight: How Mental Models Influence User Behavior and Output in AI Writing Assistants.*
+Shalaleh Rismani, **Su Lin Blodgett**, Q. Vera Liao, Alexandra Olteanu, and AJung Moon.
+CHI.
+
 ## 2025
 
 *Ethics and Bias in NLP.*
