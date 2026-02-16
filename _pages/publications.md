@@ -20,7 +20,7 @@ Alexandra Olteanu, Solon Barocas, **Su Lin Blodgett**, Lisa Egede, Alicia DeVrio
 *LLMs produce racist output when prompted in African American English.* 
 **Su Lin Blodgett** and Zeerak Talat. 
 Nature News and Views. 
-[[article](https://www.nature.com/articles/d41586-024-02527-x)]
+[[article](https://rdcu.be/e39w2)]
 
 *Fairness and Sequential Decision Making: Limits, Lessons, and Opportunities.* 
 Samer B. Nashed, Justin Svegliato, and **Su Lin Blodgett**. 
