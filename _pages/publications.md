@@ -56,7 +56,7 @@ AI x Crisis: Tracing New Directions Beyond Deployment and Use Workshop, Aarhus. 
 
 *Rigor in AI: Doing Rigorous AI Work Requires a Broader, Responsible AI-Informed Conception of Rigor.*
 Alexandra Olteanu, **Su Lin Blodgett**, Agathe Balayn, Angelina Wang, Fernando Diaz, Flavio du Pin Calmon, Margaret Mitchell, Michael Ekstrand, Reuben Binns, and Solon Barocas.
-NeurIPS Position Paper. [[paper](https://arxiv.org/abs/2506.14652)]
+NeurIPS Position Paper. [[paper](https://neurips.cc/virtual/2025/loc/san-diego/poster/121936)]
 
 *Dehumanizing Machines: Mitigating Anthropomorphic Behaviors in Text Generation Systems.* 
 Myra Cheng, **Su Lin Blodgett**, Alicia DeVrio, Lisa Egede, and Alexandra Olteanu. 
@@ -68,7 +68,7 @@ Findings of ACL. [[paper](https://aclanthology.org/2025.findings-acl.947/)]
 
 *Position: Evaluating Generative AI Systems is a Social Science Measurement Challenge.* 
 Hanna Wallach, Meera Desai, A. Feder Cooper, Angelina Wang, Chad Atalla, Solon Barocas, **Su Lin Blodgett**, Alexandra Chouldechova, Emily Corvi, P. Alex Dow, Jean Garcia-Gathright, Alexandra Olteanu, Nicholas Pangakis, Stefanie Reed, Emily Sheng, Dan Vann, Jennifer Wortman Vaughan, Matthew Vogel, Hannah Washington, and Abigail Z. Jacobs. 
-ICML Position Paper. [[paper](https://arxiv.org/abs/2502.00561)]
+ICML Position Paper. [[paper](https://proceedings.mlr.press/v267/wallach25a.html)]
 
 *Measuring Machine Learning Harms from Stereotypes: Requires Understanding Who is Being Harmed by Which Errors in What Ways.* 
 Angelina Wang, Xuechunzi Bai, Solon Barocas, and **Su Lin Blodgett**. 
@@ -88,7 +88,7 @@ CHI. [[paper](https://dl.acm.org/doi/10.1145/3706598.3714038)]
 
 *"It was 80% me, 20% AI": Seeking Authenticity in Co-Writing with Large Language Models.* 
 Angel Hsing-Chi Hwang, Q. Vera Liao, **Su Lin Blodgett**, Alexandra Olteanu, and Adam Trischler. 
-CSCW. [[paper](https://arxiv.org/abs/2411.13032)]
+CSCW. [[paper](https://dl.acm.org/doi/10.1145/3711020)]
 
 ## 2024
 

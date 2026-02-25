@@ -19,7 +19,7 @@ I'm currently a principal researcher in the [Fairness, Accountability, Transpare
 
 ## recent news
 
-**Sept. 2025:** Our [position paper](https://arxiv.org/abs/2506.14652) arguing that AI research and practice needs a broader conception of rigour has been accepted to NeurIPS 2025.
+**Sept. 2025:** Our [position paper](https://neurips.cc/virtual/2025/loc/san-diego/poster/121936) arguing that AI research and practice needs a broader conception of rigour has been accepted to NeurIPS 2025.
 
 **Sept. 2025:** I am now a principal researcher!
 
@@ -27,13 +27,13 @@ I'm currently a principal researcher in the [Fairness, Accountability, Transpare
 
 **May 2025:** Our [paper](https://aclanthology.org/2025.acl-long.1259/) on interventions for mitigating anthropomorphic AI system behaviours, led by Myra Cheng, has been accepted to ACL 2025 (with an SAC Highlights Award!), and [another](https://aclanthology.org/2025.findings-acl.947/) on gaps between research and practice when measuring representational harms, led by Emma Harvey, accepted to Findings of ACL.
 
-**May 2025:** Our [position paper](https://arxiv.org/abs/2502.00561) arguing that evaluating generative AI systems is a social science measurement challenge has been accepted to ICML 2025.
+**May 2025:** Our [position paper](https://proceedings.mlr.press/v267/wallach25a.html) arguing that evaluating generative AI systems is a social science measurement challenge has been accepted to ICML 2025.
 
 **Apr. 2025:** I gave keynotes at the [Human-centered Evaluation and Auditing of Language Models Workshop](https://heal-workshop.github.io/) (CHI 2025) and [Workshop on Noisy and User-generated Text](https://noisy-text.github.io/2025/) (NAACL 2025).
 
-**Apr. 2025:** Our [paper](https://arxiv.org/abs/2402.04420) examining people's experiences of machine learning errors reflecting stereotypes has been accepted to FAccT 2025.
+**Apr. 2025:** Our [paper](https://dl.acm.org/doi/10.1145/3715275.3732046) examining people's experiences of machine learning errors reflecting stereotypes has been accepted to FAccT 2025.
 
-**Jan. 2025:** Our [paper](https://arxiv.org/abs/2502.09870) on linguistic expressions that contribute to anthropomorphism, led by Alicia DeVrio, has been accepted to CHI 2025, and a [blog post](https://d2jud02ci9yv69.cloudfront.net/2025-04-28-anthropomorphic-ai-116/blog/anthropomorphic-ai/) at ICLR 2025.
+**Jan. 2025:** Our [paper](https://dl.acm.org/doi/10.1145/3706598.3714038) on linguistic expressions that contribute to anthropomorphism, led by Alicia DeVrio, has been accepted to CHI 2025, and a [blog post](https://d2jud02ci9yv69.cloudfront.net/2025-04-28-anthropomorphic-ai-116/blog/anthropomorphic-ai/) at ICLR 2025.
 
 **Dec. 2024:** I gave a keynote and participated on two panels at the [International Web Information Systems Engineering Conference (WISE) 2024](https://wise2024-qatar.com/).
 
@@ -41,7 +41,7 @@ I'm currently a principal researcher in the [Fairness, Accountability, Transpare
 
 **Oct. 2024:** Two tiny papers accepted at the EvalEval Workshop: [one](https://evaleval.github.io/accepted_papers/EvalEval_24_Wallach.pdf) arguing that evaluating generative AI systems is a social science measurement challenge, and [another](https://evaleval.github.io/accepted_papers/EvalEval_24_Harvey.pdf), led by Emma Harvey, on gaps between research and practice when measuring representational harms. I was also on a panel reflecting on the AI evaluation landscape.
 
-**Sept. 2024:** Our [paper](https://arxiv.org/abs/2411.13032) on writers' and readers' conceptions of and experiences with authenticity in AI-assisted writing, led by Angel Hsing-Chi Hwang, has been accepted to CSCW 2025.
+**Sept. 2024:** Our [paper](https://dl.acm.org/doi/10.1145/3711020) on writers' and readers' conceptions of and experiences with authenticity in AI-assisted writing, led by Angel Hsing-Chi Hwang, has been accepted to CSCW 2025.
 
 **May 2024:** One [paper](https://aclanthology.org/2024.acl-long.861/) accepted to ACL 2024 contributing a framework formalizing the benchmark design process, led by Yu Lu Liu, and [another](https://aclanthology.org/2024.findings-acl.761/) to Findings of ACL on impacts of language technologies' disparities on African American Language speakers, led by Jay Cunningham.
 
