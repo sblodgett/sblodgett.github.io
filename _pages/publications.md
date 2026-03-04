@@ -48,7 +48,7 @@ CHI.
 
 *Ethics and Bias in NLP.*
 Zeerak Talat, **Su Lin Blodgett**.
-**International Encyclopedia of Language and Linguistics, 3rd Edition**. Eds. Hilary Nesi and Petar Milin. Elsevier.
+*International Encyclopedia of Language and Linguistics, 3rd Edition*. Eds. Hilary Nesi and Petar Milin. Elsevier.
 
 *The predatory fantasy of worker empowerment in AI marketing.*
 Justine Zhang, **Su Lin Blodgett**, and Nina Markl.
@@ -76,7 +76,7 @@ FAccT. [[paper](https://dl.acm.org/doi/10.1145/3715275.3732046)]
 
 *Evaluating the Social Impact of Generative AI Systems in Systems and Society.* 
 Irene Solaiman, Zeerak Talat, William Agnew, Lama Ahmad, Dylan Baker, **Su Lin Blodgett**, Canyu Chen, Hal Daumé III, Jesse Dodge, Isabella Duan, Felix Friedrich, Avijit Ghosh, Usman Gohar, Sara Hooker, Yacine Jernite, Ria Kalluri, Alberto Lusoli, Alina Leidinger, Michelle Lin, Xiuzhu Lin, Sasha Luccioni, Jennifer Mickel, Margaret Mitchell, Jessica Newman, Anaelia Ovalle, Marie-Therese Png, Shubham Singh, Andrew Strait, Lukas Struppek, Arjun Subramonian. 
-**The Oxford University Press Handbook of Generative AI**. Eds. Philip Hacker, Andreas Engel, Sarah Hammer, and Brent Mittelstadt. Oxford University Press. [[preprint](https://zeerak.org/papers/Evaluating_the_Social_Impact_of_Generative_AI_Systems_in_Systems_and_Society__preprint_.pdf)]
+*The Oxford University Press Handbook of Generative AI*. Eds. Philip Hacker, Andreas Engel, Sarah Hammer, and Brent Mittelstadt. Oxford University Press. [[preprint](https://zeerak.org/papers/Evaluating_the_Social_Impact_of_Generative_AI_Systems_in_Systems_and_Society__preprint_.pdf)]
 
 *"I Am the One and Only, Your Cyber BFF": Understanding the Impact of GenAI Requires Understanding the Impact of Anthropomorphic AI.* 
 Myra Cheng, Alicia DeVrio, Lisa Egede, **Su Lin Blodgett**, and Alexandra Olteanu. 
@@ -154,7 +154,7 @@ NAACL. [[paper](https://aclanthology.org/2022.naacl-main.24/)]
 
 *Beyond "Fairness": Structural Injustice Lenses On AI for Education.* 
 Michael Madaio, **Su Lin Blodgett**, Elijah Mayfield, and Ezekiel Dixon-Román. 
-**The Ethics of Artificial Intelligence in Education: Current Challenges, Practices and Debates**. Eds. Wayne Holmes and Kaśka Porayska-Pomsta. Routledge.
+*The Ethics of Artificial Intelligence in Education: Current Challenges, Practices and Debates*. Eds. Wayne Holmes and Kaśka Porayska-Pomsta. Routledge.
 
 *Examining Political Rhetoric with Epistemic Stance Detection.* 
 Ankita Gupta, **Su Lin Blodgett**, Justin Gross, and Brendan O'Connor. 
