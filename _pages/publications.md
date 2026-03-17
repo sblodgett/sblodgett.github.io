@@ -47,7 +47,7 @@ CHI.
 ## 2025
 
 *Ethics and Bias in NLP.*
-Zeerak Talat, **Su Lin Blodgett**.
+Zeerak Talat and **Su Lin Blodgett**.
 *International Encyclopedia of Language and Linguistics, 3rd Edition*. Eds. Hilary Nesi and Petar Milin. Elsevier.
 
 *The predatory fantasy of worker empowerment in AI marketing.*

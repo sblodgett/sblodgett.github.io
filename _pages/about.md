@@ -73,7 +73,7 @@ I was previously a principal researcher in the [Fairness, Accountability, Transp
 
 **May 2022:** Vera Liao, Alexandra Olteanu, and I co-organized a CHI panel: ["Responsible Language Technologies: Foreseeing and Mitigating Harms"](https://dl.acm.org/doi/abs/10.1145/3491101.3516502).
 
-**Dec. 2021:** Honoured to have been named one of the [100 Brilliant Women in AI Ethics](https://womeninaiethics.org/the-list/of-2022/) for 2022.
+<!-- **Dec. 2021:** Honoured to have been named one of the [100 Brilliant Women in AI Ethics](https://womeninaiethics.org/the-list/of-2022/) for 2022. -->
 
 <!-- **Dec. 2021:** The [second edition of our workshop bridging HCI and NLP](https://sites.google.com/view/hciandnlp-2022/) will take place at NAACL 2022 (co-organized with Hal Daumé III, Michael Madaio, Ani Nenkova, Brendan O'Connor, Hanna Wallach, and Qian Yang). -->
 
