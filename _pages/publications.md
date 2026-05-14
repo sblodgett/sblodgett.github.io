@@ -60,7 +60,7 @@ CHI. [[paper](https://dl.acm.org/doi/10.1145/3772318.3791670)]
 
 *Ethics and Bias in NLP.*
 Zeerak Talat and **Su Lin Blodgett**.
-*International Encyclopedia of Language and Linguistics, 3rd Edition*. Eds. Hilary Nesi and Petar Milin. Elsevier. [[paper](https://sblodgett.github.io/files/bias-fairness-nlp-chapter)]
+*International Encyclopedia of Language and Linguistics, 3rd Edition*. Eds. Hilary Nesi and Petar Milin. Elsevier. [[chapter](https://sblodgett.github.io/files/bias-fairness-nlp-chapter)]
 
 *The predatory fantasy of worker empowerment in AI marketing.*
 Justine Zhang, **Su Lin Blodgett**, and Nina Markl.
