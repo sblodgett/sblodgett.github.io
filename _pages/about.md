@@ -23,7 +23,7 @@ I'm currently an independent visiting researcher at [Mila - Québec AI Institute
 
 **Apr. 2026:** I am now an independent visiting researcher at Mila, visiting [Jackie Cheung's group](https://www.cs.mcgill.ca/~jcheung/group.html).
 
-**Mar. 2026:** Two papers accepted to FAccT 2026: [one](https://sblodgett.github.io/files/facct-2026-ai-capabilities-discourses.pdf) unpacking AI capabilities discourses via an analysis of generative AI marketing materials, and [one](https://sblodgett.github.io/files/facct-2026-ai-automatons.pdf) proposing a conceptual framework articulating and disentangling design choices for AI systems intended to mimic humans.
+**Mar. 2026:** Two papers accepted to FAccT 2026: [one](https://sblodgett.github.io/files/facct-2026-ai-capabilities-discourses.pdf) unpacking AI capabilities discourses via an analysis of generative AI marketing materials, and [one](https://sblodgett.github.io/files/facct-2026-automatons.pdf) proposing a conceptual framework articulating and disentangling design choices for AI systems intended to mimic humans.
 
 **Jan. 2026:** Two papers accepted to CHI 2026: [one](https://dl.acm.org/doi/10.1145/3772318.3791649) led by Agathe Balayn proposing a framework for mapping the possibilities for reporting on GenAI use; and [one]((https://dl.acm.org/doi/10.1145/3772318.3791670) led by Shalaleh Rismani examining how different mental models affects users' behaviour and outcomes when using a writing assistant.
 

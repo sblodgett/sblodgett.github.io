@@ -42,7 +42,7 @@ Beyond Alignment: Transdisciplinary Conversations on Human-AI Futures Workshop (
 
 *AI Automatons: AI Systems Intended to Imitate Humans.* 
 Alexandra Olteanu, Solon Barocas, **Su Lin Blodgett**, Lisa Egede, Alicia DeVrio, and Myra Cheng. 
-FAccT. [[paper](https://sblodgett.github.io/files/facct-2026-ai-automatons.pdf)]
+FAccT. [[paper](https://sblodgett.github.io/files/facct-2026-automatons.pdf)]
 
 *"A natural language interface for everyday life": The social and political functions of AI capabilities discourses.*
 Justine Zhang, **Su Lin Blodgett**, and Nina Markl.
