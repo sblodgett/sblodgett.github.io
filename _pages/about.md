@@ -15,15 +15,23 @@ I'm broadly interested in examining the social and ethical implications of natur
 <!-- I've worked on developing models to identify language variation on social media, on applying lessons from sociolinguistics and linguistic anthropology to conceptualizing harms arising from NLP systems, and on using the language of measurement modeling to rigorously analyze approaches to quantifying bias in NLP. -->
 <!-- , drawing on insights from fields such as sociolinguistics, linguistic anthropology, and education,  including people's lived experiences with these technologies, -->
 
-I was previously a principal researcher in the [Fairness, Accountability, Transparency, and Ethics in AI (FATE)](https://www.microsoft.com/en-us/research/theme/fate/) group at [Microsoft Research Montréal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/), where I was also a postdoctoral researcher. I completed my Ph.D. in computer science at the University of Massachusetts Amherst working in the [Statistical Social Language Analysis Lab](http://slanglab.cs.umass.edu/) under the guidance of [Brendan O'Connor](http://brenocon.com/), where I was also supported by the NSF Graduate Research Fellowship. I received my B.A. in mathematics from Wellesley College. I interned at [Microsoft Research New York City](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/) in summer 2019, where I worked with Solon Barocas, Hal Daumé III, and Hanna Wallach. I was named one of the [2022 100 Brilliant Women in AI Ethics](https://womeninaiethics.org/the-list/of-2022/).
+I'm currently an independent visiting researcher at [Mila - Québec AI Institute](https://mila.quebec/en), hosted by [Jackie Cheung](https://www.cs.mcgill.ca/~jcheung/). I was previously a principal researcher in the [Fairness, Accountability, Transparency, and Ethics in AI (FATE)](https://www.microsoft.com/en-us/research/theme/fate/) group at [Microsoft Research Montréal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/), where I was also a postdoctoral researcher. I completed my Ph.D. in computer science at the University of Massachusetts Amherst working in the [Statistical Social Language Analysis Lab](http://slanglab.cs.umass.edu/) under the guidance of [Brendan O'Connor](http://brenocon.com/), where I was also supported by the NSF Graduate Research Fellowship. I received my B.A. in mathematics from Wellesley College. I interned at [Microsoft Research New York City](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/) in summer 2019, where I worked with Solon Barocas, Hal Daumé III, and Hanna Wallach. I was named one of the [2022 100 Brilliant Women in AI Ethics](https://womeninaiethics.org/the-list/of-2022/).
 
 ## recent news
+
+**Apr. 2026:** Our paper examining reporting of human evaluation protocols in long-form text generation, led by Katelyn Mei, has been accepted to ACL 2026.
+
+**Apr. 2026:** I am now an independent visiting researcher at Mila, visiting [Jackie Cheung's group](https://www.cs.mcgill.ca/~jcheung/group.html).
+
+**Mar. 2026:** Two papers accepted to FAccT 2026: [one](https://sblodgett.github.io/files/facct-2026-ai-capabilities-discourses.pdf) unpacking AI capabilities discourses via an analysis of generative AI marketing materials, and [one](https://sblodgett.github.io/files/facct-2026-ai-automatons.pdf) proposing a conceptual framework articulating and disentangling design choices for AI systems intended to mimic humans.
+
+**Jan. 2026:** Two papers accepted to CHI 2026: [one](https://dl.acm.org/doi/10.1145/3772318.3791649) led by Agathe Balayn proposing a framework for mapping the possibilities for reporting on GenAI use; and [one]((https://dl.acm.org/doi/10.1145/3772318.3791670) led by Shalaleh Rismani examining how different mental models affects users' behaviour and outcomes when using a writing assistant.
 
 **Sept. 2025:** Our [position paper](https://neurips.cc/virtual/2025/loc/san-diego/poster/121936) arguing that AI research and practice needs a broader conception of rigour has been accepted to NeurIPS 2025.
 
 **Sept. 2025:** I am now a principal researcher!
 
-**June 2025:** I'm a General Chair for [FAccT 2026](https://facctconference.org/), to be held in Montréal. [Submit](https://facctconference.org/2026/cfp.html) your work!
+**June 2025:** I'm a general chair for [FAccT 2026](https://facctconference.org/), to be held in Montréal. [Submit](https://facctconference.org/2026/cfp.html) your work!
 
 **May 2025:** Our [paper](https://aclanthology.org/2025.acl-long.1259/) on interventions for mitigating anthropomorphic AI system behaviours, led by Myra Cheng, has been accepted to ACL 2025 (with an SAC Highlights Award!), and [another](https://aclanthology.org/2025.findings-acl.947/) on gaps between research and practice when measuring representational harms, led by Emma Harvey, accepted to Findings of ACL.
 

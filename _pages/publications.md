@@ -13,10 +13,6 @@ author_profile: true
 
 ## Preprints and Media
 
-*AI Automatons: AI Systems Intended to Imitate Humans.* 
-Alexandra Olteanu, Solon Barocas, **Su Lin Blodgett**, Lisa Egede, Alicia DeVrio, and Myra Cheng. 
-[[paper](https://arxiv.org/abs/2503.02250)]
-
 *LLMs produce racist output when prompted in African American English.* 
 **Su Lin Blodgett** and Zeerak Talat. 
 Nature News and Views. 
@@ -36,19 +32,35 @@ Christian Hardmeier, Marta R. Costa-jussà, Kellie Webster, Will Radford, and **
 
 ## 2026
 
-*"They are turning to ChatGPT in nearly every aspect of life!" A Framework to Characterize the Uses of Generative AI.*
+*Illusions of the Gold Standard: A Large-scale Analysis of Human Evaluation Protocols for Long-form Text Generation.*
+Katelyn X. Mei, Yi-Li Hsu, Minjoon Choi, Zongwan Cao, Chenjun Xu, Bingbing Wen, **Su Lin Blodgett**, and Lucy Lu Wang.
+ACL.
+
+*"I Was a Young AI": On Probing the Effectiveness of Intervening on Anthropomorphic AI System Outputs.*
+**Su Lin Blodgett**, Myra Cheng, and Alexandra Olteanu.
+Beyond Alignment: Transdisciplinary Conversations on Human-AI Futures Workshop (BATCH).
+
+*AI Automatons: AI Systems Intended to Imitate Humans.* 
+Alexandra Olteanu, Solon Barocas, **Su Lin Blodgett**, Lisa Egede, Alicia DeVrio, and Myra Cheng. 
+FAccT. [[paper](https://sblodgett.github.io/files/facct-2026-ai-automatons.pdf)]
+
+*"A natural language interface for everyday life": The social and political functions of AI capabilities discourses.*
+Justine Zhang, **Su Lin Blodgett**, and Nina Markl.
+FAccT. [[paper](https://sblodgett.github.io/files/facct-2026-ai-capabilities-discourses.pdf)]
+
+*A Framework to Characterize Reporting on Generative AI Use.*
 Agathe Balayn, Varun Nagaraj Rao, **Su Lin Blodgett**, Aylin Caliskan, and Solon Barocas.
-CHI.
+CHI. [[paper](https://dl.acm.org/doi/10.1145/3772318.3791649)]
 
 *From Use to Oversight: How Mental Models Influence User Behavior and Output in AI Writing Assistants.*
 Shalaleh Rismani, **Su Lin Blodgett**, Q. Vera Liao, Alexandra Olteanu, and AJung Moon.
-CHI.
+CHI. [[paper](https://dl.acm.org/doi/10.1145/3772318.3791670)]
 
 ## 2025
 
 *Ethics and Bias in NLP.*
 Zeerak Talat and **Su Lin Blodgett**.
-*International Encyclopedia of Language and Linguistics, 3rd Edition*. Eds. Hilary Nesi and Petar Milin. Elsevier.
+*International Encyclopedia of Language and Linguistics, 3rd Edition*. Eds. Hilary Nesi and Petar Milin. Elsevier. [[paper](https://sblodgett.github.io/files/bias-fairness-nlp-chapter)]
 
 *The predatory fantasy of worker empowerment in AI marketing.*
 Justine Zhang, **Su Lin Blodgett**, and Nina Markl.
