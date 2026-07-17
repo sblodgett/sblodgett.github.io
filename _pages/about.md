@@ -7,8 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+**I am on the academic job market for positions starting in 2027!** If you think a position would be a good fit, please do reach out.
+{: .notice}
 
-I'm broadly interested in examining the social and ethical implications of natural language processing (NLP) technologies, and on creating more equitable, just, and empowering NLP technologies by centering people---who are inseparable from language---in technologies' development and evaluation. My recent work has addressed principled evaluation and measurement, particularly of generative AI capabilities, behaviours, and impacts; understanding how people perceive and use generative AI; and supporting AI and NLP practitioners in their ethical work. I've also worked on using NLP approaches to examine language variation and change (computational sociolinguistics), for example developing models to identify language variation on social media. I approach my work from an interdisciplinary and sociotechnical perspective and draw inspiration from a wide range of disciplines, including NLP, responsible AI (RAI), human-computer interaction (HCI), and sociolinguistics.
+I'm broadly interested in examining the social and ethical implications of natural language processing (NLP) technologies, and on creating more equitable, just, and empowering NLP technologies by centering people---who are inseparable from language---in technologies' development and evaluation. 
+
+My recent work has addressed principled evaluation and measurement, particularly of generative AI capabilities, behaviours, and impacts; understanding how people perceive and use generative AI; and supporting AI and NLP practitioners in their ethical work. I've also worked on using NLP approaches to examine language variation and change (computational sociolinguistics), for example developing models to identify language variation on social media. I work from an interdisciplinary and sociotechnical perspective; I draw from and seek to put into conversation research across disciplines, including NLP, machine learning, responsible AI, human-computer interaction, (socio)linguistics, and science \& technology studies, and I use a variety of methods.
 
 <!-- ; I develop approaches for anticipating, measuring, and mitigating harms arising from language technologies, focusing on the complexities of language and language technologies in their social contexts.  -->
 
@@ -19,7 +23,9 @@ I'm currently an independent visiting researcher at [Mila - Québec AI Institute
 
 ## recent news
 
-**Apr. 2026:** Our paper examining reporting of human evaluation protocols in long-form text generation, led by Katelyn Mei, has been accepted to ACL 2026.
+**Jul. 2026:** Our paper examining the impact of generative AI on information seeking and learning, led by Shravika Mittal, has been accepted to AIES 2026.
+
+**Apr. 2026:** Our [paper](https://aclanthology.org/2026.acl-long.635/) examining reporting of human evaluation protocols in long-form text generation, led by Katelyn Mei, has been accepted to ACL 2026 with an SAC Highlight Award!
 
 **Apr. 2026:** I am now an independent visiting researcher at Mila, visiting [Jackie Cheung's group](https://www.cs.mcgill.ca/~jcheung/group.html).
 
@@ -33,7 +39,7 @@ I'm currently an independent visiting researcher at [Mila - Québec AI Institute
 
 **June 2025:** I'm a general chair for [FAccT 2026](https://facctconference.org/), to be held in Montréal. [Submit](https://facctconference.org/2026/cfp.html) your work!
 
-**May 2025:** Our [paper](https://aclanthology.org/2025.acl-long.1259/) on interventions for mitigating anthropomorphic AI system behaviours, led by Myra Cheng, has been accepted to ACL 2025 (with an SAC Highlights Award!), and [another](https://aclanthology.org/2025.findings-acl.947/) on gaps between research and practice when measuring representational harms, led by Emma Harvey, accepted to Findings of ACL.
+**May 2025:** Our [paper](https://aclanthology.org/2025.acl-long.1259/) on interventions for mitigating anthropomorphic AI system behaviours, led by Myra Cheng, has been accepted to ACL 2025 (with an SAC Highlight Award!), and [another](https://aclanthology.org/2025.findings-acl.947/) on gaps between research and practice when measuring representational harms, led by Emma Harvey, accepted to Findings of ACL.
 
 **May 2025:** Our [position paper](https://proceedings.mlr.press/v267/wallach25a.html) arguing that evaluating generative AI systems is a social science measurement challenge has been accepted to ICML 2025.
 

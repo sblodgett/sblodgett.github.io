@@ -13,6 +13,10 @@ author_profile: true
 
 ## Preprints and Media
 
+*On Defining Erasure Harms for NLP.*
+Yu Lu Liu, Arnav Goel, Jackie Chi Kit Cheung, Alexandra Olteanu, Ziang Xiao, and **Su Lin Blodgett**.
+[[paper](https://arxiv.org/abs/2606.15815)]
+
 *LLMs produce racist output when prompted in African American English.* 
 **Su Lin Blodgett** and Zeerak Talat. 
 Nature News and Views. 
@@ -32,21 +36,25 @@ Christian Hardmeier, Marta R. Costa-jussà, Kellie Webster, Will Radford, and **
 
 ## 2026
 
+*Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning.*
+Shravika Mittal, **Su Lin Blodgett**, and Q. Vera Liao.
+AIES. [[paper (preprint)](https://arxiv.org/abs/2606.11669)]
+
 *Illusions of the Gold Standard: A Large-scale Analysis of Human Evaluation Protocols for Long-form Text Generation.*
 Katelyn X. Mei, Yi-Li Hsu, Minjoon Choi, Zongwan Cao, Chenjun Xu, Bingbing Wen, **Su Lin Blodgett**, and Lucy Lu Wang.
-ACL.
+ACL. **Senior Area Chair Highlights Award**. [[paper](https://aclanthology.org/2026.acl-long.635/)]
 
 *"I Was a Young AI": On Probing the Effectiveness of Intervening on Anthropomorphic AI System Outputs.*
 **Su Lin Blodgett**, Myra Cheng, and Alexandra Olteanu.
-Beyond Alignment: Transdisciplinary Conversations on Human-AI Futures Workshop (BATCH).
+Beyond Alignment: Transdisciplinary Conversations on Human-AI Futures Workshop (BATCH). [[paper](https://aclanthology.org/2026.beyondalignment-1.1/)]
 
 *AI Automatons: AI Systems Intended to Imitate Humans.* 
 Alexandra Olteanu, Solon Barocas, **Su Lin Blodgett**, Lisa Egede, Alicia DeVrio, and Myra Cheng. 
-FAccT. [[paper](https://sblodgett.github.io/files/facct-2026-automatons.pdf)]
+FAccT. [[paper](https://dl.acm.org/doi/10.1145/3805689.3812377)]
 
 *"A natural language interface for everyday life": The social and political functions of AI capabilities discourses.*
 Justine Zhang, **Su Lin Blodgett**, and Nina Markl.
-FAccT. [[paper](https://sblodgett.github.io/files/facct-2026-ai-capabilities-discourses.pdf)]
+FAccT. [[paper](https://dl.acm.org/doi/10.1145/3805689.3806481)]
 
 *A Framework to Characterize Reporting on Generative AI Use.*
 Agathe Balayn, Varun Nagaraj Rao, **Su Lin Blodgett**, Aylin Caliskan, and Solon Barocas.
