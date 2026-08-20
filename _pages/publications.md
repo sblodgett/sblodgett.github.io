@@ -95,7 +95,7 @@ Angelina Wang, Xuechunzi Bai, Solon Barocas, and **Su Lin Blodgett**.
 FAccT. [[paper](https://dl.acm.org/doi/10.1145/3715275.3732046)]
 
 *Evaluating the Social Impact of Generative AI Systems in Systems and Society.* 
-Irene Solaiman, Zeerak Talat, William Agnew, Lama Ahmad, Dylan Baker, **Su Lin Blodgett**, Canyu Chen, Hal Daumé III, Jesse Dodge, Isabella Duan, Felix Friedrich, Avijit Ghosh, Usman Gohar, Sara Hooker, Yacine Jernite, Ria Kalluri, Alberto Lusoli, Alina Leidinger, Michelle Lin, Xiuzhu Lin, Sasha Luccioni, Jennifer Mickel, Margaret Mitchell, Jessica Newman, Anaelia Ovalle, Marie-Therese Png, Shubham Singh, Andrew Strait, Lukas Struppek, Arjun Subramonian. 
+Irene Solaiman, Zeerak Talat, William Agnew, Lama Ahmad, Dylan Baker, **Su Lin Blodgett**, Canyu Chen, Hal Daumé III, Jesse Dodge, Isabella Duan, Felix Friedrich, Avijit Ghosh, Usman Gohar, Sara Hooker, Yacine Jernite, Ria Kalluri, Alberto Lusoli, Alina Leidinger, Michelle Lin, Xiuzhu Lin, Sasha Luccioni, Jennifer Mickel, Margaret Mitchell, Jessica Newman, Anaelia Ovalle, Marie-Therese Png, Shubham Singh, Andrew Strait, Lukas Struppek, and Arjun Subramonian. 
 *The Oxford University Press Handbook of Generative AI*. Eds. Philip Hacker, Andreas Engel, Sarah Hammer, and Brent Mittelstadt. Oxford University Press. [[preprint](https://zeerak.org/papers/Evaluating_the_Social_Impact_of_Generative_AI_Systems_in_Systems_and_Society__preprint_.pdf)]
 
 *"I Am the One and Only, Your Cyber BFF": Understanding the Impact of GenAI Requires Understanding the Impact of Anthropomorphic AI.* 
